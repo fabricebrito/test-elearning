@@ -1,0 +1,3 @@
+[submodule "gb/s2/camargue"]
+	path = gb/s2/camargue
+	url = git@github.com:fabricebrito/testjupyter.git
